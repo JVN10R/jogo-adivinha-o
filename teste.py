@@ -1,0 +1,1 @@
+print("Fala,Júnior!PythontárodandonoVSCode!")
